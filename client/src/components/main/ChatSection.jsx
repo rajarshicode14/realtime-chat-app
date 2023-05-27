@@ -61,6 +61,7 @@ const ChatSection = () => {
                 px={'10px'}
                 justifyContent={'flex-start'}
                 gap={'10px'}
+                marginX={'auto'}
             >
                 {/* <Flex> */}
 

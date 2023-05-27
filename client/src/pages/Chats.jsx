@@ -39,11 +39,12 @@ const Chats = ({ user }) => {
                                     bg="white"
                                     px={'12px'}
                                     my={'10px'}
-                                    display={{ base: 'none', lg: 'flex' }}
+                                    // display={{ base: 'none', lg: 'flex' }}
                                     flexDirection="column"
                                     gap={'2'}
                                     overflowY="scroll"
                                     overflowX={'hidden'}
+                                    className='sm:hidden lg:flex'
                                     // mb={'-20px'}
                                 // css={{
                                 //     '&::-webkit-scrollbar': {
