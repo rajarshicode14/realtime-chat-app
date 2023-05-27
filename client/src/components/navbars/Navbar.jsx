@@ -225,7 +225,7 @@ export default function ComplexNavbar() {
                         color="white"
                         className="mr-4 ml-2 cursor-pointer py-1.5 font-semibold text-xl flex flex-row place-items-center"
                     >
-                        <img src="../../../public/icon4.svg" alt="" className="w-9 h-9 -mr-1 rounded-lg" />
+                        <img src="/icon4.svg" alt="" className="w-9 h-9 -mr-1 rounded-lg" />
                         renspace
                     </Typography>
                     <div className="absolute top-2/4 left-2/4 hidden -translate-x-2/4 -translate-y-2/4 lg:block">
